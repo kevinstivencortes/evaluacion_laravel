@@ -11,23 +11,15 @@
 <header class= "flex items-center justify-between border-b p-5 bg-white shadow">
         <h1 class="text-3xl font-bold">Evaluacion</h1>
         <nav>
+            
+            <a href="/principal"
+                class= "uppercase text-gray-600 p-6 font-bold text-small">
+                formulario
+            </a>
             <a href="/usuario"
                 class= "uppercase text-gray-600 font-bold text-small">
-                crud
+                datos
             </a>
-            <a href="/editar"
-                class= "uppercase text-gray-600 p-6 font-bold text-small">
-                editar
-            </a>
-            <a href="/eliminar"
-                class= "uppercase text-gray-600 p-6 font-bold text-small">
-                eliminar
-            </a>
-            <a href="/mostrar"
-                class= "uppercase text-gray-600 p-6 font-bold text-small">
-                mostrar
-            </a>
-            
         </nav>
 </header>
 <main>
